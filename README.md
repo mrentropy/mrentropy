@@ -1,4 +1,6 @@
-### Hi there 👋
+#Greetings
+
+I'm a web designer and developer.
 
 <!--
 **mrentropy/mrentropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
