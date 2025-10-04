@@ -1,6 +1,6 @@
-# Greetings
+# Greetings Internet Traveler
 
-I'm a web designer and developer.
+I'm a Web Developer, Web Designer, Business Process Specialist, CMS Expert, writer, and all-around nerd.
 
 <!--
 **mrentropy/mrentropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
